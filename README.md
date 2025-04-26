@@ -1,5 +1,7 @@
 # Overview
 
+My name is Jason Yale.
+
 As an upcoming software engineer, I aim to strengthen my programming skills by exploring fundamental concepts in various languages. This project is a simple "Hello World" program designed to practice setting up a development environment and using GitHub for version control.
 
 The software, helloWorld.py, is a minimal Python script that outputs "Hello World" and a motivational message to mark the start of my journey in CSE 310 Applied Programming.
