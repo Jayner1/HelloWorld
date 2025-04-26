@@ -1,23 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As an upcoming software engineer, I aim to strengthen my programming skills by exploring fundamental concepts in various languages. This project is a simple "Hello World" program designed to practice setting up a development environment and using GitHub for version control.
 
-{Provide a description of your software}
+The software, helloWorld.py, is a minimal Python script that outputs "Hello World" and a motivational message to mark the start of my journey in CSE 310 Applied Programming.
 
-{Describe your purpose for creating this software.}
+The purpose of this software is to establish a foundation for learning new programming languages and tools, while practicing professional documentation and repository management.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fpkOd8JTAhM)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I developed this software using Visual Studio Code as my code editor, which is a user-friendly interface for writing and debugging Python scripts.
 
-{Describe the programming language that you used}
+The programming language I have used is Python 3, chosen for its simplicity and widespread use in educational and professional settings.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+- [Python 3.13.3 Documentation](https://docs.python.org/3/)
+- [Github Docs](https://docs.github.com/en)
