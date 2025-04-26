@@ -18,7 +18,5 @@ The programming language I have used is Python 3, chosen for its simplicity and 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Python 3.13.3 Documentation](https://docs.python.org/3/)
 - [Github Docs](https://docs.github.com/en)
